@@ -1,2 +1,1 @@
-requirements
 !pip install torch torchvision
